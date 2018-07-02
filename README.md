@@ -15,10 +15,6 @@ Berikut adalah guideline untuk pembuatan nama atas aksi-aksi yang umum:
 |Submit sebuah entitas baru | "New {nama entitas} Submit" | "New Public Job Submit"|
 |Link menuju sebuah halaman | "Link To {nama alias halaman}" | "Link To Create Public Job" |
 
-### Jika event yang dibuat berupa link menuju sebuah halaman, maka lihat nama alias halaman di [Pages.md](pages.md)
-
-Contoh event membuat link menuju halaman "Job Post", namakan eventnya "Link To Job Post"
-
 # Artikel yang berhubungan dengan Mixpanel
 
 - https://medium.com/this-is-how-i-saas/ten-ways-to-get-mixpanel-right-the-first-time-717c87ca041
