@@ -1,4 +1,4 @@
 # Sribulancer Mixpanel Documentations
 ---
 
-- (List Mixpanel Event)[pages.md]
+# [List Mixpanel Event](pages.md)
