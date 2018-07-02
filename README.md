@@ -11,6 +11,6 @@ Contoh event membuat link menuju halaman "Job Post", namakan eventnya "Link To J
 
 # Artikel yang berhubungan dengan Mixpanel
 
-- [https://medium.com/this-is-how-i-saas/ten-ways-to-get-mixpanel-right-the-first-time-717c87ca041]
+- https://medium.com/this-is-how-i-saas/ten-ways-to-get-mixpanel-right-the-first-time-717c87ca041
 
 # [List Mixpanel Event](pages.md)
