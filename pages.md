@@ -1,8 +1,5 @@
 # Link
 
-- [/](#22946)
-- [/jobs/new-details](#78505)
-
 | Route | Alias |
 | ---- | ---- |
 | [/](#22946) | Root |
@@ -19,7 +16,9 @@ Alias: Root
 Section ID: Top_CTA
 
 Actions:
-- CTA Primary (Top_CTA--Primary)
+| Elemen | Aksi Di Mixpanel |
+| --- | ----- |
+| CTA Primary | Link To Create Public Job |
 
 ## Past Clients
 
