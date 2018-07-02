@@ -16,6 +16,7 @@ Alias: Root
 Section ID: Top_CTA
 
 Actions:
+
 | Elemen | Aksi Di Mixpanel |
 | --- | ----- |
 | CTA Primary | Link To Create Public Job |
