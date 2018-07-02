@@ -22,7 +22,7 @@ Section ID: Past_Clients
 
 # /jobs/new-details <a name="78505"></a>
 
-Alias: Public Job Post
+Alias: Create Public Job
 
 ## Job Post Form
 
