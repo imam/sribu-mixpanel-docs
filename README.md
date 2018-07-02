@@ -19,4 +19,4 @@ Berikut adalah guideline untuk pembuatan nama atas aksi-aksi yang umum:
 
 - https://medium.com/this-is-how-i-saas/ten-ways-to-get-mixpanel-right-the-first-time-717c87ca041
 
-# [List Mixpanel Event](pages.md)
+# [Daftar Aksi Mixpanel Di Sribulancer](pages.md)
