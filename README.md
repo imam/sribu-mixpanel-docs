@@ -8,6 +8,11 @@ Mixpanel merupakan sebuah tracker yang Sribu dan Sribulancer pakai. Melakukan ke
 
 ## Buat event dengan nama yang jelas
 
+Berikut adalah guideline untuk pembuatan nama atas aksi-aksi yang umum: 
+
+|Submit sebuah entitas baru | "New {nama entitas} Submit"|
+|Link menuju sebuah halaman | "Link To {nama alias halaman}"|
+
 ### Jika event yang dibuat berupa link menuju sebuah halaman, maka lihat nama alias halaman di [Pages.md](pages.md)
 
 Contoh event membuat link menuju halaman "Job Post", namakan eventnya "Link To Job Post"
