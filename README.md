@@ -1,5 +1,8 @@
-# Sribulancer Mixpanel Documentations
+# Sribu & Sribulancer Mixpanel Guidelines
 ---
+
+# Introduction
+Mixpanel merupakan sebuah tracker yang Sribu dan Sribulancer pakai. Melakukan kesalahan ketika menggunakan Mixpanel amatlah mudah, dikarenakan fleksibilitas yang tinggi dan penggunaannya yang jauh dari kata restriktif, mengharuskan adanya Guideline tersendiri bagi Sribu & Sribulancer untuk buat agar tiap event yang dibuat dapat konsisten dan mudah untuk digunakan oleh tim yang membutuhkan.
 
 # Guide dalam membuat event
 
