@@ -3,6 +3,11 @@
 - [/](#22946)
 - [/jobs/new-details](#78505)
 
+| Route | Alias |
+| ---- | ---- |
+| [/](#22946) | Root |
+| [/jobs/new-details](#78505) | Create Public Job |
+
 -----
 
 # <a name="22946"></a>/ 
