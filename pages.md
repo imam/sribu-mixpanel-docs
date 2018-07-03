@@ -31,7 +31,7 @@ Alias: Create Public Job
 
 ## Job Post Form
 
-Section ID: Job_Post_Form
-
 Actions: 
-- Submit Job (Job_Post_Form--Submit)
+| Element | Action Name | Position |
+| --- | --- | --- |
+| Tombol Submit Job | Submit New Job | Job Post Form - Submit |
